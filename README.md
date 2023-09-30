@@ -1,1 +1,1 @@
-# survillance Video Analytics using DeepStream
+# Survillance Video Analytics using DeepStream
